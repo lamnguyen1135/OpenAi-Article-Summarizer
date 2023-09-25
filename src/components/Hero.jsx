@@ -7,7 +7,7 @@ const Hero = () => {
         <img  src={logo} alt="sumz_logo" className="w-28 object-contain"/>
 
         <button type="button" onClick={() => window.open('https://github.com/lamnguyen1135')} className="black_btn">
-          Github
+          Lam Nguyen's Github
         </button>
       </nav>
       <h1 className="head_text">
